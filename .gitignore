@@ -1,0 +1,13 @@
+# General
+.DS_Store
+*.log
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
